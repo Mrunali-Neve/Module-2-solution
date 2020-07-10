@@ -1,0 +1,90 @@
+
+#items{
+	margin-top: 10%;
+	margin-left: 5%;
+	margin-right: 5%;	
+	margin-right: auto;
+	margin-bottom: auto;
+	width: border-box;
+	height: 100%;
+}
+#html{
+	background-color: silver;
+	width: 30%;	
+	height: fit-content;
+	border-color: black;
+	border-style: solid;
+	float: left;
+	border-width: 1px;
+	border-collapse: collapse;
+}
+#css{
+	background-color: silver;
+	width: 30%;
+	height: fit-content;
+	border-color: black;
+	border-style: solid;
+	float: left;
+	margin-left: 10px;
+	border-width: 1px;
+	border-collapse: collapse;
+}
+#js{
+	background-color: silver;
+	width: 30%;
+	height: fit-content;
+	border-color: black;
+	border-style: solid;
+	padding-left: 10px;
+	margin-left: 10px;
+	float: left;
+	border-width: 1px;
+	border-collapse: collapse;
+}
+h3{
+	/*margin-left: 45%;
+	margin-right: 50%;*/
+	text-align: center;
+}
+#innerPara{	
+	padding-left: 10px;
+	padding-right: 30px;
+}
+#innerContent{
+	width: 100%;
+	height: 25px;
+}
+#itemName1{
+	background-color: bisque;
+	font-weight: 800;
+	border: 1px solid black;
+	float: right;
+	text-align: center;
+	padding-top: 5px;
+	width: 30%;
+	height: 25px;
+	margin-top: 0px;
+}
+#itemName2{
+	background-color: red;
+	color: white;
+	font-weight: 800;
+	border: 1px solid black;
+	float: right;
+	text-align: center;
+	padding-top: 5px;
+	width: 30%;
+	height: 25px;
+	margin-top: 0px;
+}
+#itemName3{
+	background-color: pink;
+	border: 1px solid black;
+	font-weight: 800;
+	float: right;
+	text-align: center;
+	padding-top: 5px;
+	width: 30%;
+	height: 25px;
+	margin-top: 0px;
+}
